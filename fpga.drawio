@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36 Edg/128.0.0.0" version="24.7.10">
   <diagram name="第 1 页" id="-zEDVfqFRQISbP_z6SE_">
-    <mxGraphModel dx="653" dy="946" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="922" dy="1335" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -112,10 +112,7 @@
         <mxCell id="iaX_U97VyxdjdcJAwhCC-49" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 21px;&quot;&gt;硬件&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="80" y="537" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="iaX_U97VyxdjdcJAwhCC-50" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=block;endFill=1;" edge="1" parent="1" source="iaX_U97VyxdjdcJAwhCC-22" target="iaX_U97VyxdjdcJAwhCC-31">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="iaX_U97VyxdjdcJAwhCC-51" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=block;endFill=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="iaX_U97VyxdjdcJAwhCC-22" target="iaX_U97VyxdjdcJAwhCC-33">
+        <mxCell id="iaX_U97VyxdjdcJAwhCC-51" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=block;endFill=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="iaX_U97VyxdjdcJAwhCC-22" target="iaX_U97VyxdjdcJAwhCC-32">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="450" y="510" as="sourcePoint" />
           </mxGeometry>
